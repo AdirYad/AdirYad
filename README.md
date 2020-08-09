@@ -31,6 +31,4 @@
 
 ---
 
-<br>
-
 <img align="left" alt="AdirYad's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AdirYad&show_icons=true&hide_border=true">
