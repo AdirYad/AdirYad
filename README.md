@@ -1,6 +1,6 @@
 ### Hi there, I'm Adir 👋
 
-## I'm a Full-Stack Web Developer
+## A Full-Stack Web Developer!
 - 🔭 I’m currently working on a few projects
 - 👯 I’m looking for new and exciting projects
 - 🥅 I’m using the most modern technologies, approaches, and best practices
@@ -27,8 +27,10 @@
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">
 <img align="left" alt="Nginx" width="26px" src="https://cdn.auth0.com/blog/nginx-plus/nginx-logo.png">
 
+<br>
+
 ---
 
-<br />
+<br>
 
 <img align="left" alt="AdirYad's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AdirYad&show_icons=true&hide_border=true">
