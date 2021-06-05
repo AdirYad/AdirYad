@@ -9,7 +9,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="PhpStorm" width="26px" src="https://cdn.worldvectorlogo.com/logos/phpstorm-1.svg">](https://www.jetbrains.com/phpstorm)
+[<img align="left" alt="PhpStorm" width="26px" src="./images/phpstorm.svg">](https://www.jetbrains.com/phpstorm)
 [<img align="left" alt="WebStorm" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png">](https://www.jetbrains.com/webstorm)
 [<img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">](https://www.laravel.com)
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">](https://nodejs.org)
@@ -27,6 +27,7 @@
 [<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">](https://www.docker.com)
 [<img align="left" alt="Nginx" width="26px" src="https://cdn.auth0.com/blog/nginx-plus/nginx-logo.png">](https://www.nginx.com)
 
+<br>
 <br>
 
 ---
